@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "test": "jest",
+    "fmt": "prettier --write '**/*.{js,json,md}'"
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "prettier": "^2.2.1"
+  }
+}
